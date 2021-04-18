@@ -1,0 +1,401 @@
+Apr 15 21:07:51 lvl2: 	EmulationStation - v2.9.6rp, built Feb 22 2021 - 04:34:53
+Apr 15 21:07:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+Apr 15 21:07:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+Apr 15 21:07:51 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+Apr 15 21:07:51 lvl2: 	Creating window...
+Apr 15 21:07:52 lvl2: 	Created window successfully.
+Apr 15 21:07:52 lvl2: 	GL vendor:   Broadcom
+Apr 15 21:07:52 lvl2: 	GL renderer: VideoCore IV HW
+Apr 15 21:07:52 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 15 21:07:52 lvl2: 	Checking available OpenGL extensions...
+Apr 15 21:07:52 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 15 21:07:53 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/amstradcpc" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/amstradcpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/amstradcpc/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "amstradcpc" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/arcade" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/arcade/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/arcade/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "arcade" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari2600" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari2600/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari2600/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "atari2600" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari5200" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari5200/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari5200/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "atari5200" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari7800" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari7800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari7800/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "atari7800" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari800" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atari800/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atari800/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "atari800" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atarilynx" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/atarilynx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/atarilynx/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "atarilynx" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/fba" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fba/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "fba" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/fds" is not a directory!
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/fds/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/fds/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:53 lvl1: 	System "fds" has no games! Ignoring it.
+Apr 15 21:07:53 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gamegear/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gamegear/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gb/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gb/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gba/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gba/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/gbc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/gbc/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/mame-libretro" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "mame-libretro" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/mame-mame4all" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mame/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mame/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "mame-mame4all" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/mastersystem" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/mastersystem/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/mastersystem/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "mastersystem" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/megadrive/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/megadrive/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/n64/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/n64/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/neogeo" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/neogeo/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/neogeo/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "neogeo" has no games! Ignoring it.
+Apr 15 21:07:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/nes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/nes/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/ngp" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngp/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngp/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "ngp" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/ngpc" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/ngpc/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/ngpc/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "ngpc" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/pcengine" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/pcengine/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/pcengine/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "pcengine" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/psx" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/psx/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/psx/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "psx" has no games! Ignoring it.
+Apr 15 21:07:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/retropie/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/retropie/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/sega32x" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sega32x/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sega32x/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "sega32x" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/segacd" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/segacd/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/segacd/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "segacd" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/sg-1000" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/sg-1000/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/sg-1000/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "sg-1000" has no games! Ignoring it.
+Apr 15 21:07:54 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/snes/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/snes/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/vectrex" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/vectrex/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/vectrex/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "vectrex" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/zxspectrum" is not a directory!
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/zxspectrum/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/zxspectrum/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-allgames/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-allgames/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-favorites/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-favorites/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:54 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/auto-lastplayed/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/auto-lastplayed/../carbon.xml")
+    could not find file "" 
+Apr 15 21:07:55 lvl1: 	  Warning from theme "/etc/emulationstation/themes/carbon/custom-collections/theme.xml"
+  (from included file "/etc/emulationstation/themes/carbon/custom-collections/../carbon.xml")
+    could not find file "" 
+Apr 18 15:55:20 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 0, device index: 0)
+Apr 18 15:55:52 lvl2: 	 req sound [basic.launch]
+Apr 18 15:55:52 lvl2: 	   (missing)
+Apr 18 15:55:53 lvl2: 	Attempting to launch game...
+Apr 18 15:55:53 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Donkey\ Kong\ Country.zip
+Apr 18 15:56:31 lvl2: 	Creating window...
+Apr 18 15:56:32 lvl2: 	Created window successfully.
+Apr 18 15:56:32 lvl2: 	GL vendor:   Broadcom
+Apr 18 15:56:32 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 15:56:32 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 15:56:32 lvl2: 	Checking available OpenGL extensions...
+Apr 18 15:56:32 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 15:56:32 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 1, device index: 0)
+Apr 18 15:56:33 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 1, device index: 0)
+Apr 18 15:56:46 lvl2: 	 req sound [basic.launch]
+Apr 18 15:56:46 lvl2: 	   (missing)
+Apr 18 15:56:46 lvl2: 	Attempting to launch game...
+Apr 18 15:56:47 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gbc /home/pi/RetroPie/roms/gbc/Legend\ of\ Zelda,\ The\ -\ Link\'s\ Awakening\ DX.gbc
+Apr 18 15:58:28 lvl2: 	Creating window...
+Apr 18 15:58:28 lvl2: 	Created window successfully.
+Apr 18 15:58:28 lvl2: 	GL vendor:   Broadcom
+Apr 18 15:58:28 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 15:58:28 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 15:58:28 lvl2: 	Checking available OpenGL extensions...
+Apr 18 15:58:28 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 15:58:28 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 2, device index: 0)
+Apr 18 15:58:29 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 2, device index: 0)
+Apr 18 16:00:20 lvl2: 	 req sound [basic.launch]
+Apr 18 16:00:20 lvl2: 	   (missing)
+Apr 18 16:00:21 lvl2: 	Attempting to launch game...
+Apr 18 16:00:21 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gbc /home/pi/RetroPie/roms/gbc/Legend\ of\ Zelda,\ The\ -\ Link\'s\ Awakening\ DX.gbc
+Apr 18 16:00:51 lvl2: 	Creating window...
+Apr 18 16:00:51 lvl2: 	Created window successfully.
+Apr 18 16:00:51 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:00:51 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:00:51 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:00:51 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:00:51 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:00:51 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 3, device index: 0)
+Apr 18 16:00:52 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 3, device index: 0)
+Apr 18 16:01:12 lvl2: 	 req sound [basic.launch]
+Apr 18 16:01:12 lvl2: 	   (missing)
+Apr 18 16:01:13 lvl2: 	Attempting to launch game...
+Apr 18 16:01:13 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ nes /home/pi/RetroPie/roms/nes/Super\ Mario\ Bros.\ 3\ \(Europe\).nes
+Apr 18 16:01:43 lvl2: 	Creating window...
+Apr 18 16:01:43 lvl2: 	Created window successfully.
+Apr 18 16:01:43 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:01:43 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:01:43 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:01:43 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:01:43 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:01:43 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 4, device index: 0)
+Apr 18 16:01:44 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 4, device index: 0)
+Apr 18 16:01:55 lvl2: 	 req sound [basic.launch]
+Apr 18 16:01:55 lvl2: 	   (missing)
+Apr 18 16:01:55 lvl2: 	Attempting to launch game...
+Apr 18 16:01:56 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:04:17 lvl2: 	Creating window...
+Apr 18 16:04:18 lvl2: 	Created window successfully.
+Apr 18 16:04:18 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:04:18 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:04:18 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:04:18 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:04:18 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:04:18 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 5, device index: 0)
+Apr 18 16:04:19 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 5, device index: 0)
+Apr 18 16:04:33 lvl2: 	 req sound [basic.menuOpen]
+Apr 18 16:04:33 lvl2: 	   (missing)
+Apr 18 16:05:22 lvl2: 	 req sound [detailed.launch]
+Apr 18 16:05:22 lvl2: 	   (missing)
+Apr 18 16:05:23 lvl2: 	Attempting to launch game...
+Apr 18 16:05:24 lvl2: 		sudo /home/pi/RetroPie-Setup/retropie_packages.sh retropiemenu launch /home/pi/RetroPie/retropiemenu/configedit.rp </dev/tty >/dev/tty
+Apr 18 16:07:06 lvl2: 	Creating window...
+Apr 18 16:07:06 lvl2: 	Created window successfully.
+Apr 18 16:07:06 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:07:06 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:07:06 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:07:06 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:07:06 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:07:06 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 6, device index: 0)
+Apr 18 16:07:07 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 6, device index: 0)
+Apr 18 16:07:15 lvl2: 	 req sound [detailed.launch]
+Apr 18 16:07:15 lvl2: 	   (missing)
+Apr 18 16:07:16 lvl2: 	Attempting to launch game...
+Apr 18 16:07:17 lvl2: 		sudo /home/pi/RetroPie-Setup/retropie_packages.sh retropiemenu launch /home/pi/RetroPie/retropiemenu/rpsetup.rp </dev/tty >/dev/tty
+Apr 18 16:08:02 lvl2: 	Creating window...
+Apr 18 16:08:03 lvl2: 	Created window successfully.
+Apr 18 16:08:03 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:08:03 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:08:03 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:08:03 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:08:03 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:08:03 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 7, device index: 0)
+Apr 18 16:08:04 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 7, device index: 0)
+Apr 18 16:14:35 lvl2: 	 req sound [basic.launch]
+Apr 18 16:14:35 lvl2: 	   (missing)
+Apr 18 16:14:36 lvl2: 	Attempting to launch game...
+Apr 18 16:14:36 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:15:26 lvl2: 	Creating window...
+Apr 18 16:15:26 lvl2: 	Created window successfully.
+Apr 18 16:15:26 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:15:26 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:15:26 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:15:26 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:15:26 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:15:26 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 8, device index: 0)
+Apr 18 16:15:27 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 8, device index: 0)
+Apr 18 16:23:09 lvl2: 	 req sound [basic.launch]
+Apr 18 16:23:09 lvl2: 	   (missing)
+Apr 18 16:23:10 lvl2: 	Attempting to launch game...
+Apr 18 16:23:10 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:24:18 lvl2: 	Creating window...
+Apr 18 16:24:18 lvl2: 	Created window successfully.
+Apr 18 16:24:18 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:24:18 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:24:18 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:24:18 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:24:18 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:24:18 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 9, device index: 0)
+Apr 18 16:24:19 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 9, device index: 0)
+Apr 18 16:24:22 lvl2: 	 req sound [basic.launch]
+Apr 18 16:24:22 lvl2: 	   (missing)
+Apr 18 16:24:23 lvl2: 	Attempting to launch game...
+Apr 18 16:24:23 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:26:34 lvl2: 	Creating window...
+Apr 18 16:26:35 lvl2: 	Created window successfully.
+Apr 18 16:26:35 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:26:35 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:26:35 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:26:35 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:26:35 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:26:35 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 10, device index: 0)
+Apr 18 16:26:36 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 10, device index: 0)
+Apr 18 16:26:41 lvl2: 	 req sound [basic.launch]
+Apr 18 16:26:41 lvl2: 	   (missing)
+Apr 18 16:26:42 lvl2: 	Attempting to launch game...
+Apr 18 16:26:43 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:27:16 lvl2: 	Creating window...
+Apr 18 16:27:16 lvl2: 	Created window successfully.
+Apr 18 16:27:16 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:27:16 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:27:16 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:27:16 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:27:16 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:27:16 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 11, device index: 0)
+Apr 18 16:27:17 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 11, device index: 0)
+Apr 18 16:30:29 lvl2: 	 req sound [basic.launch]
+Apr 18 16:30:29 lvl2: 	   (missing)
+Apr 18 16:30:30 lvl2: 	Attempting to launch game...
+Apr 18 16:30:31 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ megadrive /home/pi/RetroPie/roms/megadrive/Altered\ Beast.bin
+Apr 18 16:31:03 lvl2: 	Creating window...
+Apr 18 16:31:03 lvl2: 	Created window successfully.
+Apr 18 16:31:03 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:31:03 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:31:03 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:31:03 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:31:03 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:31:03 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 12, device index: 0)
+Apr 18 16:31:04 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 12, device index: 0)
+Apr 18 16:31:23 lvl2: 	 req sound [basic.launch]
+Apr 18 16:31:23 lvl2: 	   (missing)
+Apr 18 16:31:24 lvl2: 	Attempting to launch game...
+Apr 18 16:31:24 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ nes /home/pi/RetroPie/roms/nes/Super\ Contra.nes
+Apr 18 16:32:22 lvl2: 	Creating window...
+Apr 18 16:32:23 lvl2: 	Created window successfully.
+Apr 18 16:32:23 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:32:23 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:32:23 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:32:23 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:32:23 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:32:23 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 13, device index: 0)
+Apr 18 16:32:24 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 13, device index: 0)
+Apr 18 16:32:28 lvl2: 	 req sound [basic.launch]
+Apr 18 16:32:28 lvl2: 	   (missing)
+Apr 18 16:32:28 lvl2: 	Attempting to launch game...
+Apr 18 16:32:29 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ nes /home/pi/RetroPie/roms/nes/Super\ Contra.nes
+Apr 18 16:32:59 lvl2: 	Creating window...
+Apr 18 16:32:59 lvl2: 	Created window successfully.
+Apr 18 16:32:59 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:32:59 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:32:59 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:32:59 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:32:59 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:32:59 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 14, device index: 0)
+Apr 18 16:33:00 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 14, device index: 0)
+Apr 18 16:41:23 lvl2: 	 req sound [basic.launch]
+Apr 18 16:41:23 lvl2: 	   (missing)
+Apr 18 16:41:24 lvl2: 	Attempting to launch game...
+Apr 18 16:41:25 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ nes /home/pi/RetroPie/roms/nes/Super\ Mario\ Bros\ 2.nes
+Apr 18 16:42:46 lvl2: 	Creating window...
+Apr 18 16:42:46 lvl2: 	Created window successfully.
+Apr 18 16:42:46 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:42:46 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:42:46 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:42:46 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:42:46 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:42:46 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 15, device index: 0)
+Apr 18 16:42:47 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 15, device index: 0)
+Apr 18 16:50:50 lvl2: 	 req sound [basic.launch]
+Apr 18 16:50:50 lvl2: 	   (missing)
+Apr 18 16:50:51 lvl2: 	Attempting to launch game...
+Apr 18 16:50:51 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gba /home/pi/RetroPie/roms/gba/Mario\ Kart.gba
+Apr 18 16:53:37 lvl2: 	Creating window...
+Apr 18 16:53:37 lvl2: 	Created window successfully.
+Apr 18 16:53:37 lvl2: 	GL vendor:   Broadcom
+Apr 18 16:53:37 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 16:53:37 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 16:53:37 lvl2: 	Checking available OpenGL extensions...
+Apr 18 16:53:37 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 16:53:37 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 16, device index: 0)
+Apr 18 16:53:38 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 16, device index: 0)
+Apr 18 16:59:39 lvl2: 	 req sound [basic.launch]
+Apr 18 16:59:39 lvl2: 	   (missing)
+Apr 18 16:59:40 lvl2: 	Attempting to launch game...
+Apr 18 16:59:40 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gba /home/pi/RetroPie/roms/gba/Mario\ Kart.gba
+Apr 18 17:00:24 lvl2: 	Creating window...
+Apr 18 17:00:24 lvl2: 	Created window successfully.
+Apr 18 17:00:24 lvl2: 	GL vendor:   Broadcom
+Apr 18 17:00:24 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 17:00:24 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 17:00:24 lvl2: 	Checking available OpenGL extensions...
+Apr 18 17:00:24 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 17:00:24 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 17, device index: 0)
+Apr 18 17:00:25 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 17, device index: 0)
+Apr 18 17:05:17 lvl2: 	 req sound [basic.launch]
+Apr 18 17:05:17 lvl2: 	   (missing)
+Apr 18 17:05:18 lvl2: 	Attempting to launch game...
+Apr 18 17:05:18 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ gba /home/pi/RetroPie/roms/gba/Mario\ Kart.gba
+Apr 18 17:06:36 lvl2: 	Creating window...
+Apr 18 17:06:36 lvl2: 	Created window successfully.
+Apr 18 17:06:36 lvl2: 	GL vendor:   Broadcom
+Apr 18 17:06:36 lvl2: 	GL renderer: VideoCore IV HW
+Apr 18 17:06:36 lvl2: 	GL version:  OpenGL ES-CM 1.1
+Apr 18 17:06:36 lvl2: 	Checking available OpenGL extensions...
+Apr 18 17:06:36 lvl2: 	 ARB_texture_non_power_of_two: MISSING
+Apr 18 17:06:36 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 18, device index: 0)
+Apr 18 17:06:37 lvl2: 	Added known joystick 8Bitdo SN30 GamePad (instance ID: 18, device index: 0)
